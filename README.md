@@ -9,9 +9,8 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Software Development Engineer working for a Health Tech startup in India 
+- 🏦 I'm a Software Development Engineer working for a Health Tech startup in Indonesia 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://hendikusnadi.tech/) and [dev.to](https://dev.to/hendikusnadi)
 - 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **Sapiens** by Yuval Noah Harari
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
@@ -47,28 +46,9 @@
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [How to Choose The Right Database for Your Application](https://hendikusnadi.tech/how-to-choose-the-right-database-for-your-application)
-- [SOLID Principles in Java](https://hendikusnadi.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://hendikusnadi.tech/introduction-to-asynchronous-processing-and-message-queues)
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://hendikusnadi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips &amp; Good Practices](https://hendikusnadi.tech/javascript-clean-code-tips-and-good-practices)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://hendikusnadi.tech/)
-
----
-
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>“I think computer viruses should count as life.  I think it says something about human nature that the only form of life we have created so far is purely destructive.  We’ve created life in our own image.”— Stephen Hawking   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
